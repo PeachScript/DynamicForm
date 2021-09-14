@@ -1,7 +1,5 @@
 ---
 title: JSON分组
-group:
-  title: JSON分组
   path: /jso
 nav:
   title: 分组

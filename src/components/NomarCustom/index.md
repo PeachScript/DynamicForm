@@ -1,7 +1,5 @@
 ---
 title: Custom
-group:
-  title: Custom
 nav:
   title: 组件
   path: /components

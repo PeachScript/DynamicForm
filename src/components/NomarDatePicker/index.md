@@ -1,7 +1,5 @@
 ---
 title: Date
-group:
-  title: Date
 nav:
   title: 组件
   path: /components

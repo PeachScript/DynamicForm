@@ -1,7 +1,5 @@
 ---
 title: 组件化分组
-group:
-  title: 组件化分组
   path: /usa
   order: 1
 nav:

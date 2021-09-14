@@ -1,7 +1,5 @@
 ---
 title: RangeDatePicker
-group:
-  title: RangeDatePicker
 nav:
   title: 组件
   path: /components

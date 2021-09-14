@@ -1,7 +1,5 @@
 ---
 title: CoverRadio
-group:
-  title: CoverRadio
 nav:
   title: 组件
   path: /components

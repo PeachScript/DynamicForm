@@ -1,7 +1,5 @@
 ---
 title: JSON使用
-group:
-  title: JSON使用
 nav:
   title: JSON使用
   path: /jsonUsage

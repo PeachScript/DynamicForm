@@ -1,7 +1,5 @@
 ---
 title: ExtraInput
-group:
-  title: ExtraInput
 nav:
   title: 组件
   path: /components

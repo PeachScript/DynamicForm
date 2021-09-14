@@ -1,7 +1,5 @@
 ---
 title: ImagePicker
-group:
-  title: ImagePicker
 nav:
   title: 组件
   path: /components

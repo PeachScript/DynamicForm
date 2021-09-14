@@ -1,7 +1,5 @@
 ---
 title: 配置项
-group:
-  title: 配置项
 nav:
   title: 配置项
   path: /setting

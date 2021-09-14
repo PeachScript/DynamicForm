@@ -1,7 +1,5 @@
 ---
 title: CheckBox
-group:
-  title: CheckBox
 nav:
   title: 组件
   path: /components

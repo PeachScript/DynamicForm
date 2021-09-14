@@ -1,7 +1,5 @@
 ---
 title: Picker
-group:
-  title: Picker
 nav:
   title: 组件
   path: /components

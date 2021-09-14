@@ -1,7 +1,5 @@
 ---
 title: MultiplePicker
-group:
-  title: MultiplePicker
 nav:
   title: 组件
   path: /components

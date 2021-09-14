@@ -1,7 +1,5 @@
 ---
 title: 级联规则使用
-group:
-  title: 级联规则使用
 nav:
   title: 级联规则使用
   path: /relativesUsage

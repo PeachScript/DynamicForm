@@ -1,7 +1,5 @@
 ---
 title: Radio
-group:
-  title: Radio
 nav:
   title: 组件
   path: /components

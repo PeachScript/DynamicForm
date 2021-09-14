@@ -1,7 +1,5 @@
 ---
 title: Switch
-group:
-  title: Switch
 nav:
   title: 组件
   path: /components

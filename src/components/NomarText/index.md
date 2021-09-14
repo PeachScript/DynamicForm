@@ -1,7 +1,5 @@
 ---
 title: Text
-group:
-  title: Text
 nav:
   title: 组件
   path: /components

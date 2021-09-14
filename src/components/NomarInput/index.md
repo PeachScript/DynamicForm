@@ -1,7 +1,5 @@
 ---
 title: Input
-group:
-  title: Input
 nav:
   title: 组件
   path: /components

@@ -1,7 +1,5 @@
 ---
 title: Select
-group:
-  title: Select
 nav:
   title: 组件
   path: /components

@@ -1,7 +1,5 @@
 ---
 title: AddressPicker
-group:
-  title: AddressPicker
 nav:
   title: 组件
   path: /components

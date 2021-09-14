@@ -1,7 +1,5 @@
 ---
 title: API
-group:
-  title: API
   path: /api
   order: 1
 nav:
